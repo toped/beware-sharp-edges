@@ -1,5 +1,9 @@
 # BewareSharpEdges
 
+### What do computers and air conditioners have in common?
+_They both become useless when you open windows._ 🤣
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
